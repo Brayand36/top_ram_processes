@@ -3,7 +3,8 @@ This script lists the processes currently running on the system that are consumi
 
 Usage:
     python3 4_top_ram_processes.py [--top N]
-    Arguments:
+    
+Arguments:
         --top N   Number of top processes to display (default: 10).
         
 Requirements:
